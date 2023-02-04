@@ -18,8 +18,8 @@ I try for the first time
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/krishnankanagaraj/frontendmentor-qrcode)
-- Live Site URL: [Add live site URL here](https://krishnankanagaraj.github.io/frontendmentor-qrcode/)
+- Solution URL: [git repository](https://github.com/krishnankanagaraj/frontendmentor-qrcode)
+- Live Site URL: [My Solution](https://krishnankanagaraj.github.io/frontendmentor-qrcode/)
 
 ## My process
 I try to do the project with pure HTML and CSS
