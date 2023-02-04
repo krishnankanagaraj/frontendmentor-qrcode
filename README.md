@@ -38,8 +38,8 @@ bsics of css postion property
 
 ## Author
 
-- Website - [Add your name here](Krishnan Kanagaraj)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/krishnankanagaraj)
+- Website - [Krishnan Kanagaraj](https://github.com/krishnankanagaraj)
+- Frontend Mentor - [Krishnan Kanagaraj](https://www.frontendmentor.io/profile/krishnankanagaraj)
 
 
 
